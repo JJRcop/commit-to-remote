@@ -6,7 +6,7 @@ This will squash all changes into a single commit. Future plans include an optio
 
 Because this is using the GitHub API to create new commits, the SHA-1 hashes may differ. I'm not sure if that will work yet.
 
-Using the GitHub API instead of `git push` like [@ad-m]'s [GitHub Push][git-push-action] action allows this to work without requiring setup of a [Personal Access Token][gh-pat].
+Using the GitHub API instead of `git push` like **[@ad-m]**'s [GitHub Push][git-push-action] action allows this to work without requiring setup of a [Personal Access Token][gh-pat].
 
 [git-api]: https://developer.github.com/v3/git/
 [git-push-action]: https://github.com/ad-m/github-push-action
